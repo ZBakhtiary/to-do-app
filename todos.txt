@@ -1,17 +1,17 @@
-clean the toilet
-play setar
-do your best
-brush your teeth!
-Do it well... like always
-Stay with your family
-Help the guy
-Fix the cooler ASAP
-Clean the garage
-Wipe out them
-Color your hair
+Clean the toilet.
+Play Setar.
+Don't touch the guitar!
+Do your best!
+Brush your teeth!
+Do it well... like always.
+Stay with your family.
+Help the kid.
+Clean the garage.
+Wipe out them.
+Color your hair.
 Remove the hair.
 Pay the bill.
-Don't walk there
+Don't walk there.
 Feed the kid.
 Warn the kids.
 Close the door.
@@ -19,7 +19,8 @@ What you want more!
 Warn the parents.
 Buy that hat.
 Show the direction!
-Add todo list.
 Don't cross the line!
 Show the case.
-Master Python
+Dive in to the problem.
+Be in Love with!
+And lastly ...
